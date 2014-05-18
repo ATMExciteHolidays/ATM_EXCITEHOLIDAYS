@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<notes>
+	<note>
+		<name>$20</name>
+		<value>20</value>
+		<origine>AUD</origine>
+	</note>
+	<note>
+		<name>$50</name>
+		<value>50</value>
+		<origine>AUD</origine>
+	</note>
+</notes>
